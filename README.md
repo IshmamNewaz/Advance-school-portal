@@ -1,1 +1,1 @@
-# IshmamNewaz-Advance-school-portal
+#Advance-school-portal
