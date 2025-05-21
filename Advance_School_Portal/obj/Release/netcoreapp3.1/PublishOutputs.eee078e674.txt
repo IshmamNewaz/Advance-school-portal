@@ -1,0 +1,12 @@
+C:\Users\Ishmam_Newaz\Desktop\Published\Advance_School_Portal.exe
+C:\Users\Ishmam_Newaz\Desktop\Published\Advance_School_Portal.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\Advance_School_Portal.deps.json
+C:\Users\Ishmam_Newaz\Desktop\Published\Advance_School_Portal.runtimeconfig.json
+C:\Users\Ishmam_Newaz\Desktop\Published\Advance_School_Portal.pdb
+C:\Users\Ishmam_Newaz\Desktop\Published\System.Data.SqlClient.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\Zen.Barcode.Core.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\runtimes\win-arm64\native\sni.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\runtimes\win-x64\native\sni.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\runtimes\win-x86\native\sni.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishmam_Newaz\Desktop\Published\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
